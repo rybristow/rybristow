@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @rybristow
+- 👀 I’m interested in creating software that makes a difference. I have a special interest in mobile development, but have not had opportunities recently in that space.
+- 🌱 I’m currently learning more about iOS development, game development with Unity, and having fun learning modeling in Blender!
+- 🛠 Languages I like: 'java', 'python', 'swift', 'objective-c', 'c++', 'c#'
+- 🤝 I’m looking to collaborate on just about anything creative! I love learning new coding languages and new skills!
+- 🎨 Check out some of my more artistic endeavors on [Instagram](https://www.instagram.com/rgb4.designs/)
+- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/rb-iv/), [twitter](https://twitter.com/RylandBristow)
